@@ -4,6 +4,7 @@
 ss
 ssh
 ssh-
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHIE32YyhxpPim0/zPAtvgQfIiIeo1SalXWdOFPcrSmM backdoor@vhospedagem
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJqs3bhKrDqkcb3VGbRLudCdRPZT4stSLQgyN1oERBjv bbts@MacBook-Air-de-PrestTEC.local
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL5nRzlhTS6BLzgotvDBN1t/XOmeFV3RbyUWkTvVCbJq root@6102174288799.vhospedagem.com.br
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOC+hcsVwiujGyzHfVpZjJb20KduCCtZ+IH9id8s8ZNg root@vhospedagem
