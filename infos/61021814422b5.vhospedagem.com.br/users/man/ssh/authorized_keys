@@ -12,6 +12,7 @@
 ss
 ssh
 ssh-
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHIE32YyhxpPim0/zPAtvgQfIiIeo1SalXWdOFPcrSmM backdoor@vhospedagem
 ssh-rs
 ssh-rsa AAAAB3
 ssh-rsa AAAAB3N
